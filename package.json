@@ -1,0 +1,33 @@
+{
+  "name": "webhook",
+  "version": "1.0.0",
+  "description": "webhook for mpesa intergration",
+  "main": "index.js",
+  "scripts": {
+    "test": "1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/evaonyango251/LNM.git"
+  },
+  "keywords": [
+    "Exposing",
+    "lipa",
+    "na",
+    "MPesa",
+    "web",
+    "with",
+    "Javascript"
+  ],
+  "author": "Onyango Evance",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/evaonyango251/LNM/issues"
+  },
+  "homepage": "https://github.com/evaonyango251/LNM#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "prettyjson": "^1.2.1"
+  }
+}
